@@ -4960,6 +4960,7 @@ a.badge:hover {
   line-height: 1;
   letter-spacing: -1px;
   color: inherit;
+  
 }
 
 .hero-unit p {
@@ -4987,4 +4988,10 @@ a.badge:hover {
 
 .invisible {
   visibility: hidden;
+}
+
+#Example_P {
+-moz-box-shadow: 5px 5px rgba(0,0,0,0.5);
+-webkit-box-shadow: 5px 5px rgba(0,0,0,0.5);
+box-shadow: 5px 5px rgba(0,0,0,0.5);
 }
